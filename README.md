@@ -20,5 +20,5 @@ In the [search](./search), please load the corresponding *gamma_norm.pkl* and *g
 (Unfortunately we don't support automation of this process at the moment.)
 
 ## Pre-trained
-we also provide our best pre-trained model in [pre_trained](./CNN/pre_trained) for different lambdas. You can find them according to the corresponding lambda.
+We also provide our best pre-trained model in [pre_trained](./CNN/pre_trained) for different lambdas. You can find them according to the corresponding lambda.
 
