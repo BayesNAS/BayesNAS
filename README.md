@@ -1,5 +1,5 @@
 # BayesNAS
-code for paper *BayesNAS: A Bayesian Approach for Neural Architecture Search*
+code for ICML paper *BayesNAS: A Bayesian Approach for Neural Architecture Search*
 
 ## Description
 The algorithm is a one-shot based Bayesian approach for neural architecutre search. It is capable of finding efficient network architecture for image classification task. This approach is also very flexible in the sense of finding good trade-off between classification accuracy and model complexity.
